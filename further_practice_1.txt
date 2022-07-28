@@ -1,0 +1,1 @@
+Want to practice staging and commiting two files at once!
